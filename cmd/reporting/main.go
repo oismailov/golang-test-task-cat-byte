@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"twitch_chat_analysis/cmd/api/config"
-	r "twitch_chat_analysis/cmd/api/router"
+	"twitch_chat_analysis/cmd/reporting/config"
+	r "twitch_chat_analysis/cmd/reporting/router"
 )
 
 func main() {
